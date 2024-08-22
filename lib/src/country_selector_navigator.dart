@@ -245,6 +245,8 @@ class PageNavigator extends CountrySelectorNavigator {
         showDialCode: showDialCode,
         titleStyle: titleStyle,
         subtitleStyle: subtitleStyle,
+        searchBoxDecoration: searchBoxDecoration,
+        searchBoxTextStyle: searchBoxTextStyle,
       ),
     );
   }
